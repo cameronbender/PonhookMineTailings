@@ -1,0 +1,8 @@
+# https://render.com/docs/yaml-spec
+services:
+  - type: web
+    name: env-justice-ns
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /

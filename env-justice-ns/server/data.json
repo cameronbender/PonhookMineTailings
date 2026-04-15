@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "title": "Ponhook Lake mine tailings",
+    "subtitle": "Arsenic, mercury, and environmental justice in the Molega and Ponhook Lake areas",
+    "updated": "2026-04-08",
+    "credits": "Based on the Env. Justice and Equity presentation by Emi Nakamoto, Cameron Bender, Zailynne Durant, Piper Arnold, Alicia Spidle, and Henry Attakorah Mensah."
+  },
+  "keyFigures": [
+    {
+      "label": "Historic gold production (Molega district, 1886–1950)",
+      "value": "33,460 oz",
+      "note": "Peak years 1888–1892; Malaga Mining’s 20-stamp mill on Ponhook was the largest producer."
+    },
+    {
+      "label": "Private wells over arsenic limits (1977, gold-mining districts)",
+      "value": "13%",
+      "note": "Especially wells close to or down-gradient of tailings and waste rock."
+    },
+    {
+      "label": "Mercury lost to tailings (amalgamation era)",
+      "value": "~25%",
+      "note": "Could not be recovered from powdered ore; contributes to legacy contamination and methylation risk."
+    }
+  ],
+  "pathways": [
+    {
+      "route": "Drinking water",
+      "detail": "Arsenic in groundwater: wells near or down-gradient of tailings and waste rock are at higher risk. Provincial guidance includes routine testing and treatment when levels exceed health limits."
+    },
+    {
+      "route": "Locally harvested foods",
+      "detail": "Arsenic and mercury can accumulate in plants and animals used for food, including freshwater clams and mussels documented near some tailings contexts."
+    },
+    {
+      "route": "Fish (methylmercury)",
+      "detail": "Freshwater fish can carry methylmercury. Adults may tolerate low exposures differently than fetuses and young children, whose developing nervous systems are especially sensitive."
+    },
+    {
+      "route": "Air (mercury)",
+      "detail": "Measurements cited in the research summary indicate mercury in air above tailings can be far higher than background levels."
+    }
+  ],
+  "pathwayComparison": [
+    {
+      "col1": "Geological / process source",
+      "col2": "Gold in quartz veins with arsenopyrite (arsenic sulfide). Crushing increases surface area and speeds weathering, releasing more arsenic than natural weathering alone.",
+      "col3": "Historic amalgamation used liquid mercury; much remained in tailings. Sulfides from crushed ore can acidify pore water, converting elemental mercury toward methylmercury."
+    },
+    {
+      "col1": "Water",
+      "col2": "Historic snapshot: elevated arsenic in wells near tailings; bathing contributes minimal skin uptake compared with ingestion.",
+      "col3": "Mercury moves through water into food webs; methylmercury is the form that bioaccumulates."
+    },
+    {
+      "col1": "Food",
+      "col2": "Arsenic documented in biota near tailings (e.g. plants, small mammals, shellfish in regional studies).",
+      "col3": "Fish consumption is a key methylmercury pathway; maternal transfer and breast milk can affect infants."
+    },
+    {
+      "col1": "Health emphasis",
+      "col2": "Acute poisoning (vomiting, pain, diarrhea) vs. chronic skin changes and increased cancer risk (IARC: arsenic carcinogenic to humans).",
+      "col3": "Children: possible developmental effects; high elemental mercury inhalation damages airways; severe methylmercury exposure affects coordination, vision, cognition."
+    }
+  ],
+  "healthNotes": [
+    {
+      "agent": "Arsenic - acute",
+      "effects": "Vomiting, abdominal pain, diarrhea; may progress to numbness, cramping, and in extreme cases death.",
+      "exposure": "Ingestion of contaminated water or soil; less often large acute doses from industrial accidents."
+    },
+    {
+      "agent": "Arsenic - chronic",
+      "effects": "Skin pigmentation changes, lesions, palmar/plantar hyperkeratosis; linked to skin cancer and cancers of bladder and lung (IARC classification).",
+      "exposure": "Long-term drinking water or repeated dietary exposure near mineralized or tailings-affected areas."
+    },
+    {
+      "agent": "Mercury - children & pregnancy",
+      "effects": "Methylmercury targets the developing nervous system: possible IQ effects, motor/speech delays, coordination problems, seizures at high exposure.",
+      "exposure": "Fish consumption, in utero transfer, breast milk; community context matters for diet."
+    },
+    {
+      "agent": "Mercury - inhalation & severe oral exposure",
+      "effects": "Elemental mercury vapor can injure mouth, lungs, and airways; extreme methylmercury exposure can cause tremor, personality change, sensory loss, and death.",
+      "exposure": "Disturbed tailings, indoor spills of elemental mercury (less common today), high fish meals from contaminated waters."
+    }
+  ],
+
+  "ejFraming": [
+    "1930: NS Power dammed five lakes to create a single lake for a hydroelectricity project, resulting in the submerging of about 50 hectares of reserve land.",
+    "1974: A land claim was filed by Wasoqopa'q First Nation for lost lands, which is still unresolved.",
+    "There is no known number on how much land was lost due to flooding by the dam, however up to fifty acres are still under water and at least 200 acres have been illegally sold."
+  ],
+  "dueDiligence": [
+    {
+      "col1": "Human health risk assessment",
+      "col2": "As of 2015, no published human health risk assessments were identified for Nova Scotia’s historic gold tailings sites as a class."
+    },
+    {
+      "col1": "Historic Gold Mines Advisory Committee",
+      "col2": "Formed in 2005 to assess risks and recommend actions; government added web resources and issued press materials."
+    },
+    {
+      "col1": "2012 Molega tailings review",
+      "col2": "Exploration assessment found substantial gold remaining; suggested economic re-mining coupled with mercury and arsenic recovery or treatment."
+    },
+    {
+      "col1": "2015 provincial tailings synthesis",
+      "col2": "Broad survey of historic sites; arsenic speciation at Malaga complex — some minerals stable only under certain redox conditions, complicating excavation vs. isolation."
+    },
+    {
+      "col1": "Private well testing",
+      "col2": "Residents should test wells at least every two years for arsenic; treat if above 0.01 mg/L (Canadian drinking-water guideline context)."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Tailings",
+      "definition": "Fine-grained waste left after ore processing. Historic gold tailings in Nova Scotia often concentrate arsenic-bearing minerals and mercury from amalgamation."
+    },
+    {
+      "term": "Bioaccumulation",
+      "definition": "Increase in contaminant concentration in organisms over time relative to the surrounding environment — observed for arsenic and mercury in plants, voles, and shellfish near some tailings."
+    },
+    {
+      "term": "Methylmercury",
+      "definition": "An organic form of mercury produced under certain chemical conditions (often involving sulfur and microbes). It biomagnifies in food webs and is especially toxic to developing brains."
+    },
+    {
+      "term": "Arsenopyrite",
+      "definition": "An iron arsenic sulfide mineral common in Nova Scotia gold-quartz veins. Weathering and grinding expose arsenic to air and water."
+    },
+    {
+      "term": "Free, prior and informed consent (FPIC)",
+      "definition": "A standard emphasized in UNDRIP and TRC Call to Action 92(i): Indigenous peoples should meaningfully approve developments affecting their rights, lands, and resources before they proceed."
+    }
+  ],
+  "citations": [
+    "Nova Scotia Department of Natural Resources / Energy & Mines. Historic gold mine tailings hazard assessment materials and OFR ME 2015-004 (provincial tailings synthesis).",
+    "Nova Scotia exploration assessment AR ME 2012-186 (Molega area tailings and remediation concepts).",
+    "Philibert et al. (2020) — mercury exposure and mortality surveillance (Grassy Narrows context; cited for correlation discussion in presentation).",
+    "Truth and Reconciliation Commission of Canada — Call to Action 92 (business and Indigenous peoples).",
+    "United Nations Declaration on the Rights of Indigenous Peoples, Article 3 (self-determination)."
+  ],
+  "resources": [
+    {
+      "title": "Molega gold district — Not Your Grandfather’s Mining",
+      "url": "https://notyourgrandfathersmining.ca/molega-gold-district",
+      "publisher": "Mining Association of NS (historic context)"
+    },
+    {
+      "title": "AR ME 2012-186 — exploration assessment (Molega)",
+      "url": "https://novascotia.ca/natr/meb/data/ar/2012/ar_me_2012-186.pdf",
+      "publisher": "Province of Nova Scotia"
+    },
+    {
+      "title": "Historic gold mine tailings (hazard assessment hub)",
+      "url": "https://novascotia.ca/natr/meb/hazard-assessment/tailings-historic.asp",
+      "publisher": "Province of Nova Scotia"
+    },
+    {
+      "title": "Gold mine tailings photos / field context (PDF)",
+      "url": "https://novascotia.ca/natr/meb/hazard-assessment/docs/6_-_goldminetailingpics.pdf",
+      "publisher": "Province of Nova Scotia"
+    },
+    {
+      "title": "OFR ME 2015-004 — provincial tailings study",
+      "url": "https://novascotia.ca/natr/meb/hazard-assessment/docs/7_-_ofr_me_2015-004.pdf",
+      "publisher": "Province of Nova Scotia"
+    },
+    {
+      "title": "Human health implications of mercury exposure in Nova Scotia",
+      "url": "https://www.canada.ca/content/dam/eccc/documents/pdf/npri-/academic-challenge/Human%20Health%20Implications%20of%20Mercury%20Exposure%20in%20Nova%20Scotia.pdf",
+      "publisher": "Environment and Climate Change Canada"
+    },
+    {
+      "title": "Ponhook — Acadia First Nation community page",
+      "url": "https://acadiafirstnation.ca/ponhook.html",
+      "publisher": "Acadia First Nation"
+    },
+    {
+      "title": "NS archives search — Molega",
+      "url": "https://archives.novascotia.ca/search/?q=molega",
+      "publisher": "Nova Scotia Archives"
+    },
+    {
+      "title": "Mercury — environmental health (NS)",
+      "url": "https://novascotia.ca/nse/environmental-health/mercury.asp",
+      "publisher": "Nova Scotia Environment"
+    },
+    {
+      "title": "UNDRIP (English)",
+      "url": "https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf",
+      "publisher": "United Nations"
+    },
+    {
+      "title": "Kejimkujik loon mercury dataset (Open Government)",
+      "url": "https://open.canada.ca/data/en/dataset/731bba12-4459-423f-a126-6bd902c8bb19",
+      "publisher": "Government of Canada (regional analogue <20 km)"
+    },
+    {
+      "title": "Canadian mining and settler nationalism (Everyday Orientalism, 2018)",
+      "url": "https://everydayorientalism.wordpress.com/2018/06/18/canadian-mining-and-settler-nationalism-legitimizing-possession-by-erasing-indigeneity-behind-the-guise-of-modernity-expertise-and-benevolence/",
+      "publisher": "Leilah Elmokadem"
+    },
+    {
+      "title": "Mi’kmaq resource guide — reserve ethnographies (CBU)",
+      "url": "https://www.cbu.ca/indigenous-initiatives/lnu-resource-centre/mikmaq-resource-guide/essays/ethnographies-of-selected-reserves-abridged/#Acadia",
+      "publisher": "Cape Breton University"
+    }
+  ]}
